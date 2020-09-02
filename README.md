@@ -1,2 +1,2 @@
 # PracticeCodes
-All the DSA practiced codes
+All my codes <3
